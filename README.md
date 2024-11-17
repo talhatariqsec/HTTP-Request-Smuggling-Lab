@@ -18,6 +18,7 @@ Follow these steps to run the lab locally:
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/talhatariqsec/HTTP-Request-Smuggling-Lab.git
+   cd HTTP-Request-Smuggling-Lab 
 2. Open a terminal in the lab directory and run the proxy server:
 
    ```bash
